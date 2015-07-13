@@ -149,7 +149,7 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 ## 9. Contacto
 
 - hola@colombia-dev.org
-- [@colombia_dev](https://twitter.com/colombia_dev)
+- [@baq_js](https://twitter.com/baq_js)
 
 ## 10. Licencia y atribución
 
