@@ -148,7 +148,7 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 ## 9. Contacto
 
-- hola@colombia-dev.org
+- richard.batusai@gmail.com
 - [@baq_js](https://twitter.com/baq_js)
 
 ## 10. Licencia y atribución
